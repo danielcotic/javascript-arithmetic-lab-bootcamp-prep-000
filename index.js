@@ -1,29 +1,27 @@
-function add(){
+function add(a,b){
   return a + b
 }
 
-function subtract(){
+function subtract(a,b){
   return a - b
 }
 
-function multiply(){
+function multiply(a,b){
   return a * b
 }
 
-function subtract(){
+function subtract(a,b){
   return a - b
 }
 
-function divide(){
+function divide(a,b){
   return a / b
 }
 
-function inc(){
-  var n = a
+function inc(n){
   return n += 1
 }
 
-function dec(){
-  var n = a
+function dec(n){
   return n -= 1
 }

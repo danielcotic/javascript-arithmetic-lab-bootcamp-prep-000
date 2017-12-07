@@ -1,6 +1,3 @@
-var a = 5
-var b = 3
-
 function add(){
   return a + b
 }
@@ -22,11 +19,11 @@ function divide(){
 }
 
 function inc(){
-  var n = 5
+  var n = a
   return n += 1
 }
 
 function dec(){
-  var n = 5
+  var n = a
   return n -= 1
 }
